@@ -6,10 +6,10 @@
 
 - You can follow me on various social sites. Links are given down below:
 
-## LinkedIn - 
-## Kaggle - 
+## LinkedIn - https://www.linkedin.com/in/aakashg974/
+## Kaggle - https://www.kaggle.com/aakashg974
 ## Twitter - 
-## HackerRank - 
+## HackerRank - https://www.hackerrank.com/gargaakash974
 ## Instagram - 
 ## Facebook - 
 <!---
